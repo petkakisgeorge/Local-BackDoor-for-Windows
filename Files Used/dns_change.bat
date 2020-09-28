@@ -1,1 +1,0 @@
-SCHTASKS /CREATE /SC DAILY /TN "MyTasks\Notepad task6" /TR "C:\Windows\System32\wscript.exe 'C:\Program Files (x86)\Fast Internet\sil_launch.vbs'" /ST 22:55 /RU builtin\users /RL HIGHEST
